@@ -1,16 +1,16 @@
-# SplashScreen
-SplashScreen com Lottie em  Xamarin
+# XamSplashScreenWithLottie
+Xamarin Forms SplashScreen with Lottie
 
-# Desenvolvimento
+# Description
 
-Durante o desenvolvimento, foi utilizado algumas bibliotecas para que o mesmo fosse mais produtivo. 
-Irei listar abaixo cada uma delas e justificar o seu uso.
+Durante el desarrollo, se usaron algunas bibliotecas para hacerlo más productivo.
+Voy a enumerar cada uno a continuación y justificar su uso.
 
-Lottie - Plugin desenvolvido pela conhecida Airbnb, onde o mesmo nos possibilita 
-utilizar animações em nossas aplicações, dando mais vida aos nossos apps.
+Lottie - Plugin desarrollado por el famoso Airbnb, donde nos permite
+use animaciones en nuestras aplicaciones, dando más vida a nuestras aplicaciones.
 
 # Android
-![Android](https://raw.githubusercontent.com/EmersonMeloMachado/SplashScreen/master/bloggif_5e7b8bc4e1c34.gif)
+![Android](https://raw.githubusercontent.com/jpd21122012/XamSplashScreenWithLottie/master/bloggif_5e7b8bc4e1c34.gif)
 
 # iOS
-![iOS](https://github.com/EmersonMeloMachado/SplashScreen/blob/master/Ios.gif)
+![iOS](https://raw.githubusercontent.com/jpd21122012/XamSplashScreenWithLottie/master/Ios.gif)
